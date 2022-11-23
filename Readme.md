@@ -49,7 +49,7 @@
 ```
 - - -
 ## 投稿请参阅：  
- - 邮箱 <a href="mailto:505730682@qq.com"> 505730682@qq.com</a>  
+ - 投稿邮箱 <a href="mailto:505730682@qq.com"> 505730682@qq.com</a>  
  - 邮件名格式：群台历投稿 + 您的称呼，例：<kbd>群台历投稿 - 助教</kbd>
  - 照片参数要求：照片的长边在<font color = red> **2500像素**  </font> 以上
  - 照片数量要求：每人至多 <font color = red > **6** </font> 张
